@@ -1,0 +1,14 @@
+C:\Users\fonse\source\repos\teste-target\Pergunta2\Pergunta2\bin\Debug\net8.0\Pergunta2.exe
+C:\Users\fonse\source\repos\teste-target\Pergunta2\Pergunta2\bin\Debug\net8.0\Pergunta2.deps.json
+C:\Users\fonse\source\repos\teste-target\Pergunta2\Pergunta2\bin\Debug\net8.0\Pergunta2.runtimeconfig.json
+C:\Users\fonse\source\repos\teste-target\Pergunta2\Pergunta2\bin\Debug\net8.0\Pergunta2.dll
+C:\Users\fonse\source\repos\teste-target\Pergunta2\Pergunta2\bin\Debug\net8.0\Pergunta2.pdb
+C:\Users\fonse\source\repos\teste-target\Pergunta2\Pergunta2\obj\Debug\net8.0\Pergunta2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fonse\source\repos\teste-target\Pergunta2\Pergunta2\obj\Debug\net8.0\Pergunta2.AssemblyInfoInputs.cache
+C:\Users\fonse\source\repos\teste-target\Pergunta2\Pergunta2\obj\Debug\net8.0\Pergunta2.AssemblyInfo.cs
+C:\Users\fonse\source\repos\teste-target\Pergunta2\Pergunta2\obj\Debug\net8.0\Pergunta2.csproj.CoreCompileInputs.cache
+C:\Users\fonse\source\repos\teste-target\Pergunta2\Pergunta2\obj\Debug\net8.0\Pergunta2.dll
+C:\Users\fonse\source\repos\teste-target\Pergunta2\Pergunta2\obj\Debug\net8.0\refint\Pergunta2.dll
+C:\Users\fonse\source\repos\teste-target\Pergunta2\Pergunta2\obj\Debug\net8.0\Pergunta2.pdb
+C:\Users\fonse\source\repos\teste-target\Pergunta2\Pergunta2\obj\Debug\net8.0\Pergunta2.genruntimeconfig.cache
+C:\Users\fonse\source\repos\teste-target\Pergunta2\Pergunta2\obj\Debug\net8.0\ref\Pergunta2.dll
